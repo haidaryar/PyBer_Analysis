@@ -22,7 +22,7 @@ Suburban areas had 625 total rides | 490 total drivers | $19,356.33 collected in
 
 Urban areas had 1625 total rides | 2,405 total drivers | 39,854.38 collected in total fare | average fare per ride is $24.53 | average fare per driver is $16.57
 
-! [Numbers_Snapshot] (PyBer_Analysis/analysis/Numbers_Snapshot.png) 
+! [Numbers_Snapshot] (PyBer_Analysis/analysis/Numbers_Snapshot) 
 
 ## Recommendations
 
